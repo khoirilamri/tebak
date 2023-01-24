@@ -1,0 +1,319 @@
+{ 
+ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ]
+ , "Level": [
+    {
+      "level_number": "Level 1",
+      "number": 1
+    },
+    {
+      "level_number": "Level 2",
+      "number": 2
+    },
+    {
+      "level_number": "Level 3",
+      "number": 3
+    },
+    {
+      "level_number": "Level 4",
+      "number": 4
+    }
+    ,{
+      "level_number": "Level 5",
+      "number": 5
+    }
+  ],
+  "Question": [
+
+    //Level 1
+
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_01.webp",
+      "answer": "KUCING",
+      "instruction": "Hewan peliharaan yang sangat lucu"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_02.webp",
+      "answer": "ANJING",
+      "instruction": "Hewan peliharaan sebagai penjaga"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_03.webp",
+      "answer": "BURUNG",
+      "instruction": "Hewan bersayap yang bisa terbang"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_04.webp",
+      "answer": "GAJAH",
+      "instruction": "Hewan yang mempunyai kuping, belalai dan gading"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_05.webp",
+      "answer": "JERAPAH",
+      "instruction": "Hewan berleher panjang dan bercorak coklat"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_06.webp",
+      "answer": "AYAM",
+      "instruction": "Hewan yang menjadi hidangan makanan setiap orang"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_07.webp",
+      "answer": "LUMBA LUMBA",
+      "instruction": "Mamalia laut yang sangat cerdas"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_08.webp",
+      "answer": "MACAN",
+      "instruction": "Kucing besar yang memiliki ciri has loreng"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_09.webp",
+      "answer": "SINGA",
+      "instruction": "Sang Raja hutan yang memikli bulu pada lehernya"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl1_10.webp",
+      "answer": "GORILA",
+      "instruction": "Primata asli Afrika yang sangat besar"
+    },
+
+    //Level 2
+
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_01.webp",
+      "answer": "APEL",
+      "instruction": "Lambang cinta dan kasih sayang"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_02.webp",
+      "answer": "JERUK",
+      "instruction": "Manis, asam dan wangi"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_03.webp",
+      "answer": "NANGKA",
+      "instruction": "Buang dengan ciri khas jerami"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_04.webp",
+      "answer": "DURIAN",
+      "instruction": "Sang raja buah dengan bau dan rasa menyengat"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_05.webp",
+      "answer": "ANGGUR",
+      "instruction": "Sering digunakan sebagai toping kue"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_06.webp",
+      "answer": "MELON",
+      "instruction": "Buah yang sering ada di sop buah"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_07.webp",
+      "answer": "SEMANGKA",
+      "instruction": "Bahasa inggrisnya water melon"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_08.webp",
+      "answer": "NANAS",
+      "instruction": "Simahkota dari kota subang"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_09.webp",
+      "answer": "SALAK",
+      "instruction": "Buah yang bersisik seperti ular"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl2_10.webp",
+      "answer": "RAMBUTAN",
+      "instruction": "Buah yang rambutnya sangat lebat"
+    },
+
+    //Level 3
+
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_01.webp",
+      "answer": "SEDAN",
+      "instruction": "Kendaraan keluarga dengan 4 kursi"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_02.webp",
+      "answer": "TRUK",
+      "instruction": "Kendaraan pengangkut barang logistik dll"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_03.webp",
+      "answer": "PESAWAT",
+      "instruction": "Burung besi yang bisa terbang"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_04.webp",
+      "answer": "KAPAL LAUT",
+      "instruction": "Transportasi laut seperti Titanci"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_05.webp",
+      "answer": "KERETA API",
+      "instruction": "Transportasi yang memiliki jalur sendiri"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_06.webp",
+      "answer": "BECAK",
+      "instruction": "Kendaraan tradisional yang di kayuh"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_07.webp",
+      "answer": "BULLDOZER",
+      "instruction": "Kendaraan berat untuk konstruksi"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_08.webp",
+      "answer": "EXAPATOR",
+      "instruction": "Kendaraan berat seperti jerapah"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_09.webp",
+      "answer": "MOTOR",
+      "instruction": "Kendaraan favorit sejuta umat"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl3_10.webp",
+      "answer": "SEPEDA",
+      "instruction": "Kendaraan non mesin untuk olahraga"
+    },
+
+    //Level 4
+
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_01.webp",
+      "answer": "TELEVISI",
+      "instruction": "Alat favorit sejuta umat untuk menonton"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_02.webp",
+      "answer": "RADIO",
+      "instruction": "Tempat kirim-kirim pesan ke gebetan"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_03.webp",
+      "answer": "MESIN CUCI",
+      "instruction": "Sekali kali baju bersih, dan hasilnya kusut"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_04.webp",
+      "answer": "LAPTOP",
+      "instruction": "Komputer jinjing dan portable"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_05.webp",
+      "answer": "PRINTER",
+      "instruction": "Cetak dokumen digital"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_06.webp",
+      "answer": "SMARTPHONE",
+      "instruction": "Satu alat bangak fungsi dalam satu genggaman"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_07.webp",
+      "answer": "KOMPUTER",
+      "instruction": "Alat yang dipakai untuk mengolah data menurut prosedur yang telah dirumuskan"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_08.webp",
+      "answer": "JAM TANGAN",
+      "instruction": "Petunjuk waktu dan penambah level kegantengan"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_09.webp",
+      "answer": "REMOT",
+      "instruction": "Operasi dari tangan untuk barang elektronik"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl4_10.webp",
+      "answer": "KULKAS",
+      "instruction": "Tempat penyimpanan makanan dan minuman"
+    },
+
+    //Level 5
+
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_01.webp",
+      "answer": "SEPATU",
+      "instruction": "_ _ P _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_02.webp",
+      "answer": "DOMPET",
+      "instruction": "_ O _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_03.webp",
+      "answer": "TAS DOMPET",
+      "instruction": "_ A _  _ _ _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_04.webp",
+      "answer": "TAS GUNUNG",
+      "instruction": "_ _ _  _ _ _ _ N _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_05.webp",
+      "answer": "KACA MATA RENANG",
+      "instruction": "_ A _ _  _ _ _ _  _ _ _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_06.webp",
+      "answer": "KACA MATA BACA",
+      "instruction": "_ _ _ _  M _ _ _  _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_07.webp",
+      "answer": "SANDAL",
+      "instruction": "S _ _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_08.webp",
+      "answer": "JAKET",
+      "instruction": "_ A _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_09.webp",
+      "answer": "SWEETER",
+      "instruction": "_ W _ _ _ _ _"
+    },
+    {
+      "image_url": "file:///android_asset/gambar/lvl5_10.webp",
+      "answer": "SI GANTENG",
+      "instruction": "Panggilan Rysa Sahrial si mpu Aliendroid"
+    }
+  ]
+}
